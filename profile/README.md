@@ -264,10 +264,9 @@ docker run -d -p 80:80 forgeturl-server
 
 | Document | Description |
 |----------|-------------|
-| [Backend README](./forgeturl-server/README.md) | Server documentation |
-| [Frontend README](./forgeturl-website-claude-opus-4.5/README.md) | Frontend documentation |
-| [API Docs](./forgeturl-server/app/api/docs/) | Swagger API documentation |
-| [Dev Guide](./forgeturl-website-claude-opus-4.5/DEVELOPMENT.md) | Development setup |
+| [Backend README](https://github.com/forgeturl/forgeturl-server) | Server documentation |
+| [Frontend README](https://github.com/forgeturl/forgeturl-website-claude-opus-4.5) | Frontend documentation |
+| [Dev Guide](https://github.com/forgeturl/forgeturl-website-claude-opus-4.5/blob/main/DEVELOPMENT.md) | Development setup |
 
 ---
 

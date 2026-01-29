@@ -264,10 +264,9 @@ docker run -d -p 80:80 forgeturl-server
 
 | 文档 | 描述 |
 |------|------|
-| [后端 README](./forgeturl-server/README.md) | 服务端详细文档 |
-| [前端 README](./forgeturl-website-claude-opus-4.5/README.md) | 前端详细文档 |
-| [API 文档](./forgeturl-server/app/api/docs/) | Swagger API 文档 |
-| [开发指南](./forgeturl-website-claude-opus-4.5/DEVELOPMENT.md) | 开发环境配置 |
+| [后端 README](https://github.com/forgeturl/forgeturl-server) | 服务端详细文档 |
+| [前端 README](https://github.com/forgeturl/forgeturl-website-claude-opus-4.5) | 前端详细文档 |
+| [开发指南](https://github.com/forgeturl/forgeturl-website-claude-opus-4.5/blob/main/DEVELOPMENT.md) | 开发环境配置 |
 
 ---
 
