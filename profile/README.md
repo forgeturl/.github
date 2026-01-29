@@ -275,8 +275,8 @@ docker run -d -p 80:80 forgeturl-server
 
 We welcome all contributions!
 
-- 🐛 Submit [Bug Reports](../../issues/new?template=bug_report.md)
-- 💡 Propose [Feature Requests](../../issues/new?template=feature_request.md)
+- 🐛 Submit [Bug Reports](https://github.com/forgeturl/.github/issues/new?template=bug_report.md)
+- 💡 Propose [Feature Requests](https://github.com/forgeturl/.github/issues/new?template=feature_request.md)
 - 📝 Improve documentation
 - 🔧 Submit Pull Requests
 

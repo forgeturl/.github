@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ForgetURL Website
+    url: https://forgeturl.com
+    about: Try ForgetURL - Minimalist Bookmark Manager
+  - name: Documentation
+    url: https://github.com/forgeturl/forgeturl-server/blob/main/README.md
+    about: Read the documentation before opening an issue

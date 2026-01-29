@@ -275,8 +275,8 @@ docker run -d -p 80:80 forgeturl-server
 
 我们欢迎所有形式的贡献！
 
-- 🐛 提交 [Bug 报告](../../issues/new?template=bug_report.md)
-- 💡 提出 [功能建议](../../issues/new?template=feature_request.md)
+- 🐛 提交 [Bug 报告](https://github.com/forgeturl/.github/issues/new?template=bug_report_zh.md)
+- 💡 提出 [功能建议](https://github.com/forgeturl/.github/issues/new?template=feature_request_zh.md)
 - 📝 改进文档
 - 🔧 提交 Pull Request
 
